@@ -1,11 +1,3 @@
----
-layout: post
-permalink: /minitrue/
-date: 2017-12-23
-finished: false
-mathjax: true
----
-
 # Minitrue
 
 ## Links
